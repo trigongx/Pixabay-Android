@@ -15,7 +15,7 @@ class ImageAdapter(var list: ArrayList<ImageModel>) : Adapter<ImageAdapter.Image
         }
     }
 
-    //okoko
+    //lalala2
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ImageViewHolder =
         ImageViewHolder(
